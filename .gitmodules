@@ -4,3 +4,6 @@
 [submodule "C#/CSharpProjects"]
 	path = "C#/CSharpProjects"
 	url = https://github.com/Peraza32/CSharpProjects.git
+[submodule "CPlusPlusProjects"]
+	path = CPlusPlusProjects
+	url = https://github.com/Peraza32/CPlusPlusProjects.git
